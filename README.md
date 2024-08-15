@@ -5,3 +5,21 @@
 ![Dashboard 1](https://github.com/user-attachments/assets/865067c8-f006-4ddd-b5a1-fc4eafd6c888)
 
 ![Pet Store Sales](https://github.com/user-attachments/assets/b902044d-1de7-4afd-ba7a-b840c51128bc)
+
+Project Overview
+
+Dataset Used
+
+Tools
+
+Data cleaning/preprocessing
+
+Exploratory Data Analysis
+
+Results/Findings
+
+Recommendations
+
+Limitations
+
+References
